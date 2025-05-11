@@ -1,0 +1,499 @@
+.footer{
+  background-color:#212529;
+  padding: 15px;
+    width: 100%;
+    text-align: center;
+  position:static;
+   
+    bottom: 0px;
+    color: white !important;
+    
+    
+ 
+  
+}
+
+.home{
+    
+    text-align: center;
+    text-shadow: black 1.5px 1.5px;
+    min-width: 100%;
+    height: 150px;
+   
+}
+.home1{
+
+  
+
+  background-position: center;
+    background-repeat: no-repeat;
+ 
+}
+.home2{  /* new added  */
+  background-color: white; 
+  background-image: url("../images/Farmer-Day.jpg.webp");
+}
+
+
+.navbar{
+  color: aliceblue !important;
+}
+.AboutUs {
+  background-image: url("../../src/images/newBackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+ 
+}
+
+.about {
+  text-shadow: white 2px 2px;
+  color: black;
+  width: 100%;
+  height: 112px;
+  text-align: center;
+  padding: 10px;
+}
+
+.list1 {
+ 
+  border-radius: 2cm;
+  padding: 20px;
+  margin-top: 0px;
+  float: left;
+  width: calc(100%/2.8);
+  height: 400px;
+  background-color: rgba(50, 202, 50, 0.603);
+}
+
+.list2 {
+
+
+ 
+  border-radius: 2cm;
+  padding: 20px;
+  margin-top: 0px;
+  float: right;
+  width: calc(100%/2.8);
+  height: 400px;
+  background-color: rgba(50, 202, 50, 0.603);
+}
+
+
+
+.l1 {
+  
+  border-radius: 2cm;
+  padding: 10px !important;
+  background-color: rgba(242, 248, 242, 0.678);
+ 
+  text-shadow: green 2px 2px;
+  font-style: italic;
+  text-align: center;
+}
+
+.l2 {
+  font-size: 70px;
+  text-align: center;
+
+  font-style: Bold;
+  font-variant: small-caps;
+  text-shadow: white 1px 1px;
+}
+    .marquee{
+        color: green;
+        text-shadow: orangered 2px 2px;
+        font-style: italic;
+        
+    }
+    .marquee1{
+      color:whitesmoke;
+      text-shadow: orangered 2px 2px;
+      font-style: oblique;
+    }
+    .navbar1{
+        color: blanchedalmond !important;
+       }
+       
+       .navcontainer{
+           width: 100% S!important;
+       }
+    
+       
+       
+       
+         .column {
+           float: left;
+           width: 33.33%;
+           padding: 10px;
+           height: 300px; /* Should be removed. Only for demonstration */
+         }
+         
+       
+       
+       .textalign{
+         text-align: center;
+         /* vertical-align: middle; */
+         font-weight: bold ;
+         font-size:xx-large;
+         padding-top: 6%;
+       
+       
+       }
+       
+       
+       
+        
+
+         .btn{
+          background-color:gold;
+           margin-top: 20px;
+           margin-bottom: 20px;
+       
+       }
+       #contactus{
+        
+           background-image: url(../images/farmer.jpg);
+           background-size: cover;
+           height: 700px;
+           
+       
+       }
+       .TAG {  
+           color: rgb(250, 250, 250);  
+           font-size: 25px;
+         }  
+        .fdash1{
+          text-align: center;
+          margin: auto;
+          text-justify: auto;
+          border: solid;
+          border-radius: 0.3cm;
+          background-color: green;
+          text-shadow: red 2px 2px;
+        }
+        .fdash2{
+          text-align: center;
+          margin: auto;
+          
+        }  
+        .imgF{
+          
+          /* background-image: url("../../src/images/Farmerimg.jpg"); */
+      
+        background-color: lightgoldenrodyellow;
+          background-position: center;
+           background-repeat: no-repeat;
+           background-size: cover;
+           /* position: fixed; */
+           min-width: 100%;
+           min-height: 100%;
+        }
+        .height{
+          height: 690px;
+          
+        }
+        .head{
+          /* margin-top: 100px; */
+          font-family:serif;
+          width: 100%;
+          border-radius: 0.4px;
+          text-shadow:orangered 2px 2px;
+        }
+      
+        .imgV{
+         
+          /* background-image: url("../../src/images/vendorl1.webp"); */
+      
+           background-color: white;
+          background-position: center;
+           background-repeat: no-repeat;
+           background-size:cover;
+           /* position: fixed; */
+         min-width: 100%;
+           min-height: 100%;
+        }
+      
+        .imgL{
+          background-image: url("../../src/images/loimg.jpg");
+      
+      
+          height: "500px"; 
+          background-position: center;
+           background-repeat: no-repeat;
+           background-size: cover;
+           position: fixed;
+           min-width: 100%;
+           min-height: 100%;
+        }
+        .login{
+          /* background-image: url("../../src/images/bgAbout12.jpg"); */
+          background-color:lightblue;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          /* height: 500px; */   /* not require new add */
+          min-width: 100%;
+         
+         
+        
+        }
+        .rform{
+          text-align: center;
+          margin: auto;
+          border: solid;
+          border-radius: 0.5cm;
+          width: 500px;
+          background-color: lightsalmon;
+  
+      }
+      .a{
+          border-radius: 0.2cm;
+          border: solid;
+          width: 600px;
+          height: auto;
+          background-color: lightcoral;
+          float: left;
+          padding-left: 100px;
+       
+      }
+      .b{
+          border-radius: 0.2cm;
+          border: solid;
+          width: 600px;
+          height: auto;
+          background-color: lightcoral;
+          float: right;
+          padding-left: 100px;
+          
+      }
+      .loginbtn{
+        background-color: rgb(67, 100, 161);
+        border-radius: 0.2cm;
+        width: 100px;
+      }
+      .profile{
+        border: solid;
+        margin: auto;
+        text-justify: center;
+        width: 600px;
+      
+      }
+      .gallery
+        {
+          /*  margin: 10px 50px;**/
+            padding: 5px;
+            
+           /* filter: grayscale(100%);*/
+            transition: 1s;
+            font-family: sans-serif;
+          
+           margin-left: auto;
+           margin-right: auto;
+           overflow: auto;
+           height: 100%;
+           width: 1200px;
+         
+          
+           
+        }
+        .gallery img:hover
+        {
+           
+            transform: scale(1.1);
+            
+    
+        }  
+        .imgGallery {
+            float: left;
+            width:  575px;
+            height: 560px;
+            object-fit: cover;
+            border: 2px ridge;
+            box-sizing: border-box;
+           /* margin: auto;*/
+          
+           
+        }
+       
+        .gallerycol-2
+        {
+            width: 593px;
+            height: 580px;
+           
+            padding: 0%;
+            display: inline-block;
+            box-sizing: border-box;
+        
+        }
+        *{
+          box-sizing: border-box;
+          margin: 0px;
+          /* padding: 0px; */
+      }
+      .maincontainer{
+      
+          width: 100%;
+          height: auto;
+      }
+      .uppercontainer{
+          height: 450px;
+          
+        /* border:2px solid red; */
+        overflow: auto;
+          margin-left: auto;
+          margin-right: auto;
+          padding: 0%;
+      
+      }
+      .carousal{
+      
+         
+          width: 970px;
+      
+          margin-top: 30px;
+          height: 400px !important;
+         
+      
+      }
+      .row{
+      
+          margin-left: auto; margin-right: auto;
+      }
+      .accordian{
+          width: 300px;
+          height: 400px;
+          margin-top: 30px;
+         
+          margin-left: 0%;
+          margin-right: 0%;
+          overflow: auto;
+      }
+      .acchead{
+       background-color: #56910f !important;
+      }
+      .carousalimg{
+      
+          height: 400px !important;
+      
+      }
+      .middlecontainer{
+      
+          /* border: 2px solid green; */
+          margin: auto;
+          height: 100px;
+          width: 100%;
+          color: #56910f;
+          text-align: center;
+          padding-top: 10px;
+      }
+      .middlecont2{
+          border: 2px solid green;
+          margin: auto;
+          height: 400px;
+          width: 100%;
+          overflow: auto; 
+          box-sizing: border-box;
+      }
+      .midllecont2img{
+          width:100%;
+          height: 395px;
+          box-sizing: border-box;
+      }
+  .forg{
+    background-image: url("../images/f2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  .category{
+    border: 2px solid black;
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+    width: 350px;
+    text-align: center;
+    
+  }
+  .showproducts{
+    border: 2px solid green;
+    padding: 2px;
+    overflow: auto;
+    width: 1200px;
+    margin: auto;
+   
+    
+  }
+  .categorybtn{
+    margin: 5px;
+  }
+  .invisible{
+   display: none;
+   border: 2px solid red;
+  }
+.headerup
+{
+  text-align: center;
+  background-color: #56910f;
+  /* background-image:url("../images/inner-banner.png") ; */
+
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: black 1.5px 1.5px;
+  min-width: 100%;
+  height: 100px;
+}
+.RegForm{
+  background-image: url("../images/bgAbout12.jpg");
+  background-position: center;
+           background-repeat: no-repeat;
+           background-size: cover;
+           
+           min-width: 100%;
+           
+}
+.blockdiagram{
+
+  background-image: url("../images/carousal10.jpg");
+}
+.carous{
+
+  width: 1600px !important;
+  margin: auto;
+}
+/* --------------------------new added--------------------  */
+.logo1{                 
+ margin-left: 0px;
+ padding-left:0%;
+ height: 570px;
+ width: 370px;
+}
+
+.logoimg{
+  width: 350px;
+}
+.fbtn{
+  background-color: green !important;
+  border-radius: 25px;
+  margin-top: 80px;
+ }
+ .vbtn{
+  background-color: orange !important;
+  border-radius: 25px;
+  margin-top: 80px;
+ }
+ .tbtn{
+  background-color: gray !important;
+  border-radius: 25px;
+  margin-top: 80px;
+ }
+
+ .farmerimg{
+  margin-left: 50px;
+  margin-top: -20px;
+ }
+ 
